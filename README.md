@@ -1,5 +1,5 @@
 # Unessay-CPSC-329-
-# Author: Anh Tuan Pham && Alex Tran (https://github.com/tranalex)
+Author: Anh Tuan Pham && Alex Tran (https://github.com/tranalex)
 
 
 # Instructions
