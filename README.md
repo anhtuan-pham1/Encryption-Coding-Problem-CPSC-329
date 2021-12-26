@@ -1,5 +1,5 @@
 # Unessay CPSC 329
-Author: Anh Tuan Pham && Alex Tran (https://github.com/tranalex)
+Author: Anh Tuan Pham && Alex Tran 
 
 This is our final project for CPSC 329 class. As a project, we created 2 sample coding challenges about Caesar and Bifid Decryption. 
 
